@@ -1,4 +1,4 @@
-This repository is used to reproduce the figures in Callaghan et al. 2021. Conservation birding: A quantitative conceptual framework for prioritizing citizen science observations. Biological Conservation.
+This repository is used to reproduce the figures in Callaghan et al. 2021. Conservation birding: A quantitative conceptual framework for prioritizing citizen science observations. Biological Conservation. https://doi.org/10.1016/j.biocon.2020.108912
 
 Any questions, please email me at callaghan.corey.t@gmail.com
 
